@@ -1,0 +1,13 @@
+{
+  "domain": "hcpanel",
+  "name": "HC Panel",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/hcpanel",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": [
+    "@piotr.paruch",
+    "@daniel.warloch"
+  ],
+  "version": "1.0.0"
+}
